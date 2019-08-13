@@ -1,0 +1,1 @@
+print("No aumentes mas el dolar qldo")
